@@ -16,7 +16,7 @@ export default function Blueline(){
                 {
                     color: "white",
                     fontFamily: "Inter",
-                    fontSize: "0.8rem",
+                    fontSize: "12px",
                     letterSpacing: "2px"
                 }
             }

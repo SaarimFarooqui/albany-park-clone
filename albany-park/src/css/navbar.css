@@ -2,7 +2,7 @@
     width: 100%;
     padding: 15px 35px;
     display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-columns: 1.5fr 1.5fr 1.15fr;
     gap: 1rem;
 }
 .logo{
@@ -15,7 +15,7 @@
 .menu-ul{
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
     gap: 1rem;
     padding: 0rem 1rem;
 }
@@ -48,6 +48,9 @@
     }
 }
 @media(max-width: 767px){
+    .logo{
+        text-align: center;
+    }
     .menu-ul{
         display: none;
     }
