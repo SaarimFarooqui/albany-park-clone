@@ -5,7 +5,7 @@ export default function Blueline(){
                 {   
                     backgroundColor : "var(--announcement)", 
                     width: "100%", 
-                    padding: "3px 0px",
+                    padding: "6px 0px",
                     display: "flex",
                     justifyContent: "center"
                 }

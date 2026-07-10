@@ -5,7 +5,7 @@ import { navitems } from "../Data"
 
 const Hamburger = () => {
     return(
-        <div className="hamburger"><RxHamburgerMenu /></div>
+        <div className="hamburger"><RxHamburgerMenu style={{height: "100%", width: "100%"}} /></div>
     )
 }
 
@@ -26,8 +26,8 @@ const Menu = () => {
 const Actions = () => {
     return(
         <div className="actions">
-            <img src="/customer.svg" alt=""/>
-            <img src="/cart.svg" alt=""/>
+            <img className="customer" src="/customer.svg" alt=""/>
+            <img className="card" src="/cart.svg" alt=""/>
         </div>
     )
 }
