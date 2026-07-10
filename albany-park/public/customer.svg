@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-2 0 79.8 85" width="32.4" height="36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #786554;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <ellipse class="cls-1" cx="38" cy="21.06" rx="17.22" ry="19.56"></ellipse>
+  <path class="cls-1" d="M.17,79.74c3.59-17.95,20.9-31.73,39.22-31.12,18.06.61,32.37,14.14,36.44,31.24.38,1.6-1.02,3.08-2.66,3.08H2.8c-1.69,0-2.97-1.54-2.64-3.2Z"></path>
+</svg>
